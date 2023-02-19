@@ -25,7 +25,7 @@
     "@welldone-software/why-did-you-render": "^7.0.1",
     "argon2": "^0.30.3",
     "cookie": "^0.5.0",
-    "eslint": "8.33.0",
+    "eslint": "8.2.0",
     "eslint-config-next": "13.1.6",
     "jsonwebtoken": "^9.0.0",
     "multer": "^1.4.5-lts.1",
@@ -43,7 +43,11 @@
     "@types/cookie": "^0.5.1",
     "@types/jsonwebtoken": "^9.0.1",
     "@types/multer": "^1.4.7",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
     "babel-plugin-import": "^1.13.6",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.25.2",
     "prisma": "^4.9.0",
     "sass": "^1.58.0"
   }
