@@ -1,0 +1,32 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "imgSrc": "/img/landscape1.png",
+            "imgAlt": " ",
+            "title": "First block",
+            "description": "A landscape is the visible features of an area of land, its landforms, and how they integrate with natural or man-made features, often considered in terms of their aesthetic appeal."
+        },
+        {
+            "id": 2,
+            "imgSrc": "/img/landscape1.png",
+            "imgAlt": " ",
+            "title": "Second block",
+            "description": " A landscape includes the physical elements of geophysically defined landforms such as (ice-capped) mountains, hills, water bodies such as rivers, lakes, ponds and the sea, living elements of land cover including indigenous vegetation, human elements including different forms of land use, buildings, and structures, and transitory elements such as lighting and weather conditions."
+        },
+        {
+            "id": 3,
+            "imgSrc": "/img/landscape1.png",
+            "imgAlt": " ",
+            "title": "Third block",
+            "description": "Combining both their physical origins and the cultural overlay of human presence, often created over millennia, landscapes reflect a living synthesis of people and place that is vital to local and national identity."
+        },
+        {
+            "id": 4,
+            "imgSrc": "/img/landscape4.png",
+            "imgAlt": " ",
+            "title": "Fourth block",
+            "description": "Landscape can be as varied as farmland, a landscape park or wilderness. The Earth has a vast range of landscapes including the icy landscapes of polar regions, mountainous landscapes, vast arid desert landscapes, islands, and coastal landscapes, densely forested or wooded landscapes including past boreal forests and tropical rainforests and agricultural landscapes of temperate and tropical regions."
+        }
+    ]
+}
