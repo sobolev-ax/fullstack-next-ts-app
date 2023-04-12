@@ -1,0 +1,64 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "imgSrc": "/img/nn1.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #1",
+        "description": "Originally the name was just Novgorod",
+        "text": "Originally the name was just Novgorod ('Newtown'), but to distinguish it from the other, older and well-known Novgorod (Veliky Novgorod) to the west, the city was commonly called 'Novgorod of the Lower lands,' or 'Lower Newtown.' This land was named 'lower' (nizhniy (нижний)), even though it is actually higher in altitude than Veliky Novgorod, because it is situated downstream of other Russian cities such as Moscow, Vladimir and Murom."
+      },
+      {
+        "id": 2,
+        "imgSrc": "/img/nn2.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #2",
+        "description": "Great trade center",
+        "text": "The largest industrial enterprise was the Sormovo Iron Works which was connected by the company's own railway to Moskovsky railway station in the Lower City of Nizhny Novgorod. The Kazansky railway station was in the Upper city. Other industries gradually developed, and by the start of the 20th century, the city was also a first-rank industrial hub. Henry Ford helped build a large truck and tractor plant (GAZ) in the late 1920s, sending engineers and mechanics, including future labour leader Walter Reuther."
+      },
+      {
+        "id": 3,
+        "imgSrc": "/img/nn3.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #3",
+        "description": "Soviet era",
+        "text": "During World War II, from 1941 to 1943, Gorky was subjected to air raids and bombardments by Germany. The Germans tried to destroy the city industry because it was the main supplier of military equipment to the front. These attacks became the most powerful in the entire World War II in the rear of the Soviet Union."
+      },
+      {
+        "id": 4,
+        "imgSrc": "/img/nn4.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #4",
+        "description": "Post-Soviet era",
+        "text": "The 800th anniversary of Nizhny Novgorod was celebrated on August 21, 2021. It celebrated the history and the great people who came from the city. The climax of the celebration was the city's 800th Anniversary Gala Show. Natalia Vodianova gave a speech and Vladimir Putin was in attendance. The Central Bank of Russia issued commemorative coins to honor the 800th anniversary."
+      },
+      {
+        "id": 5,
+        "imgSrc": "/img/nn5.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #5",
+        "description": "Administrative and municipal status",
+        "text": "Nizhny Novgorod is the administrative center (capital) of Volga Federal District and Nizhny Novgorod Oblast. Within the framework of administrative divisions, it is, together with one resort settlement and twelve rural localities, incorporated as the city of oblast significance of Nizhny Novgorod—an administrative unit with the status equal to that of the districts. As a municipal division, the city of oblast significance of Nizhny Novgorod is incorporated as Nizhny Novgorod Urban Okrug. In December 2011, Marat Safin was elected to the Russian Parliament as a member of Vladimir Putin's United Russia Party, representing Nizhny Novgorod."
+      },
+      {
+        "id": 6,
+        "imgSrc": "/img/nn6.png",
+        "imgAlt": " ",
+        "author": "Wikipedia",
+        "datePublished": "2022/12/31",
+        "title": "Nizhny Novgorod #6",
+        "description": "Climate",
+        "text": "The climate in the region is continental, specifically humid continental (Dfb), and it is similar to the climate in Moscow, although colder in winter, which lasts from late November until late March with a permanent snow cover. Average temperatures range from +19 °C (66 °F) in July to −9 °C (16 °F) in January. Average annual temperature is +4.8 °C (40.6 °F), wind speed 2.8 m/s, air humidity 76%. Being far enough away from the Baltic Sea for maritime effects to lower, Nizhny Novgorod has similar winters to Bothnian Bay climates near the Arctic Circle, but instead has very warm summers for its latitude."
+      }
+    ]
+}

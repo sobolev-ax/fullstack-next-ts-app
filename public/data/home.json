@@ -1,0 +1,32 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "imgSrc": "/img/landscape-1.png",
+            "imgAlt": " ",
+            "title": "Landscape",
+            "description": "A landscape is the visible features of an area of land, its landforms, and how they integrate with natural or man-made features, often considered in terms of their aesthetic appeal."
+        },
+        {
+            "id": 2,
+            "imgSrc": "/img/landscape-2.png",
+            "imgAlt": " ",
+            "title": "Definition and etymology",
+            "description": "There are several definitions of what constitutes a landscape, depending on context. In common usage however, a landscape refers either to all the visible features of an area of land (usually rural), often considered in terms of aesthetic appeal, or to a pictorial representation of an area of countryside, specifically within the genre of landscape painting."
+        },
+        {
+            "id": 3,
+            "imgSrc": "/img/landscape-3.png",
+            "imgAlt": " ",
+            "title": "Geomorphology: The physical evolution of landscape",
+            "description": "Geomorphology is the scientific study of the origin and evolution of topographic and bathymetric features created by physical or chemical processes operating at or near Earth's surface. Geomorphologists seek to understand why landscapes look the way they do, to understand landform history and dynamics and to predict changes through a combination of field observations, physical experiments and numerical modeling. Geomorphology is practiced within physical geography, geology, geodesy, engineering geology, archaeology and geotechnical engineering. This broad base of interests contributes to many research styles and interests within the field."
+        },
+        {
+            "id": 4,
+            "imgSrc": "/img/landscape-4.png",
+            "imgAlt": " ",
+            "title": "Landscape ecology",
+            "description": "Landscape ecology is the science of studying and improving relationships between ecological processes in the environment and particular ecosystems. This is done within a variety of landscape scales, development spatial patterns, and organizational levels of research and policy."
+        }
+    ]
+}
