@@ -36,5 +36,5 @@ yarn-error.log*
 next-env.d.ts
 
 # db
-dev.vtb
-dev.vtb-journal
+dev.db
+dev.db-journal
