@@ -40,3 +40,15 @@ export type NextApiHandlerWithUserId = (
 export type AuthGuardMiddleware = (
     handler: NextApiHandlerWithUserId,
 ) => (req: NextApiRequestWithUserId, res: NextApiResponse) => void;
+
+// ###
+
+export type Block = {
+    id: number
+    imgSrc: string
+    imgAlt: string
+    title: string
+    description: string
+  }
+  
+  export type Blocks = Block[]
